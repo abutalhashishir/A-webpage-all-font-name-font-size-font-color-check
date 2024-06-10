@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T15:29:39 BDT" name="QA_Brains" finished-at="2024-06-05T15:30:04 BDT" duration-ms="24727">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T15:29:39 BDT" name="Test" finished-at="2024-06-05T15:30:04 BDT" duration-ms="24727">
+      <class name="qa.testcases.PageTextSizeColorTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.PageTextSizeColorTest@1a677343]" started-at="2024-06-05T15:29:53 BDT" name="setup" finished-at="2024-06-05T15:29:58 BDT" duration-ms="5472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWebpageTextSizeAndFontName()[pri:1, instance:qa.testcases.PageTextSizeColorTest@1a677343]" started-at="2024-06-05T15:29:58 BDT" name="verifyWebpageTextSizeAndFontName" finished-at="2024-06-05T15:30:00 BDT" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebpageTextSizeAndFontName -->
+        <test-method signature="verifyPageColor()[pri:2, instance:qa.testcases.PageTextSizeColorTest@1a677343]" started-at="2024-06-05T15:30:00 BDT" name="verifyPageColor" finished-at="2024-06-05T15:30:04 BDT" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageColor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.PageTextSizeColorTest@1a677343]" started-at="2024-06-05T15:30:04 BDT" name="tearDown" finished-at="2024-06-05T15:30:04 BDT" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.PageTextSizeColorTest -->
+      <class name="qa.testcases.TextHeadingBodyFontNameFontSize">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.TextHeadingBodyFontNameFontSize@185a6e9]" started-at="2024-06-05T15:29:40 BDT" name="setup" finished-at="2024-06-05T15:29:50 BDT" duration-ms="10697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="extractTextAndHeading()[pri:0, instance:qa.testcases.TextHeadingBodyFontNameFontSize@185a6e9]" started-at="2024-06-05T15:29:50 BDT" name="extractTextAndHeading" finished-at="2024-06-05T15:29:52 BDT" duration-ms="1877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractTextAndHeading -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.TextHeadingBodyFontNameFontSize@185a6e9]" started-at="2024-06-05T15:29:52 BDT" name="tearDown" finished-at="2024-06-05T15:29:53 BDT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.TextHeadingBodyFontNameFontSize -->
+    </test> <!-- Test -->
+  </suite> <!-- QA_Brains -->
+</testng-results>

@@ -1,0 +1,62 @@
+Text: Home, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Category, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: About Us, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Hire QA, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: Write, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: Sign, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: In, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: DISCOVER THE DEEP MIND., Font Size: 18px, Font Name: Oswald, sans-serif
+Text: Where Questions Meet Answers: Your Path to Knowledge, Font Size: 50px, Font Name: Oswald, sans-serif
+Text: Explore stories, ideas, and knowledge, Font Size: 25.36px, Font Name: Oswald, sans-serif
+Text: Explore QA topics and discover limitless QA insights from diverse writers related to QA Industry, Font Size: 14px, Font Name: Questrial, sans-serif
+Text: A dedicated space committed to creating the most comprehensive repository of QA-related questions and answers, fostering a shared knowledge base in the field of Quality Assurance. Step into a vibrant hive of knowledge, where minds buzz with curiosity and ideas take flight. This is your space to connect, learn, and grow under the shared light of collective wisdom. Let’s jump into crackling discussions, discover hidden perspectives, and watch your understanding bloom alongside your fellow explorers., Font Size: 16px, Font Name: Questrial, sans-serif
+Text: UNDERSTAND OUR MISSION, Font Size: 30px, Font Name: Oswald, sans-serif
+Text: Explore, Font Size: 24px, Font Name: FelicityBonham
+Text: EXPLORE CATEGORIES, Font Size: 24px, Font Name: Oswald, sans-serif
+Text: CYBER SECURITY, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: Cyber security testing is the process of ensuring the security of the website to avoid major attacks. Types of security testing are vulnerability, penetration. It helps to prevents security breaches., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: MOBILE APP TESTING, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: The testing which are done for dedicated mobile applications is mobile testing. Types of mobile testing are-Functional, Interruption, Localization, Speed, Usability, performance and many more testing., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: WEB TESTING, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: Web testing is testing the web applications. It is designed to test the applications functionality and usability. Users shy away from websites which are not user friendly. So it has great importance., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: GAME TESTING, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: By playing a video game a tester tests there features, identifies bugs and inconsistency in the game. Being a game tester is a great experience. The game testers gets access to latest high edge games., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: UI/UX TESTING, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: A smooth interface is great to deliver a good user experience. UI testing is a testing that focuses on checking the appearance of the website or app. It helps to validate the designs of product., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: TESTING TOOLS, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: Testing tools are used for enhancement of the websites. Some of them are Postman, Selenium, katalon, Appium, Browser stack, etc. In this tech era testing tools are vital for any applications., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: CASE STUDY, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: While testing, a tester faces so many challenges. A tester needs to overcome the challenges, like changing requirements while testing. In these cases a clear communication helps a lot., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: AR/VR/MR, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: AR/VR are viable part of the consumer market. Testing the products before launching them, tracking the objects in real time, checking environment functionality are very important for AR/VR testing., Font Size: 15px, Font Name: Questrial, sans-serif
+Text: EXPLORE, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: ALL, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: YOUR INSTANT FIX FOR EVERYDAY DILEMMAS, Font Size: 24px, Font Name: Oswald, sans-serif
+Text: Your Quick Answers, Simplified Solutions, Font Size: 18px, Font Name: Questrial, sans-serif
+Text: How do I ask a question on the forum?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: To ask a question, simply navigate to the "comment", then craft your query including relevant details. Once done, submit it to the community, and experts will engage with you shortly., Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Can I contribute by answering questions?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: What topics are covered on the forum?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: How can I ensure the information provided is reliable?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: What should I do if I see inappropriate content or behavior?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: Are there any guidelines for asking questions?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: How do I search for existing answers before asking a question?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: Is registration required to participate in discussions?, Font Size: 18px, Font Name: Oswald, sans-serif
+Text: QA Brains is the ideal space to exchange knowledge, seek advice, and engage in meaningful conversations that advance the Quality Assurance tester's skill., Font Size: 14px, Font Name: Questrial, sans-serif
+Text: For Support, Font Size: 14px, Font Name: Questrial, sans-serif
+Text: support@qabrains.com, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Cyber Security, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Mobile App Testing, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Web Testing, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Game Testing, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: UI/UX Testing, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Testing Tools, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Case Study, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Looking For QA?, Font Size: 22px, Font Name: Oswald, sans-serif
+Text: Find the perfect QA solution for your needs to ensure its functionality, performance, and security to ensure a smooth and reliable user experience., Font Size: 14px, Font Name: Questrial, sans-serif
+Text: HIRE, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: QA, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: © 2024 QA Brains | All Rights Reserved, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Designed & Developed by RISEUP LABS, Font Size: 13px, Font Name: Questrial, sans-serif
+Text: RISEUP LABS, Font Size: 13px, Font Name: IndustryIncBase
+Text: UP, Font Size: 13px, Font Name: IndustryIncBase
